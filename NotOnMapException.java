@@ -1,4 +1,3 @@
-package project4;
 /**
  * An exception thrown when a grid point is not on the map.
  * 

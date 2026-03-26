@@ -1,4 +1,3 @@
-package project4;
 /**
  * A point on the grid. 
  * 
